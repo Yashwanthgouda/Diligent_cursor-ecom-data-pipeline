@@ -108,10 +108,6 @@ This repo delivers a miniature data engineering workflow for an e-commerce scena
 - [x] `ecommerce.db` created and populated
 - [x] `ingest_data.py` prints row counts without errors
 - [x] `report.sql` runs successfully against SQLite
-- [ ] Final `git push` (pending appropriate GitHub permissions)
 
-## Contact
-
-For questions or enhancements, please open an issue or pull request in this repository.
 
 

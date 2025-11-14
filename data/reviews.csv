@@ -1,0 +1,301 @@
+review_id,customer_id,product_id,rating,review_text,review_date
+1,403,157,1,Great deal and excellent brand.,2023-03-18
+2,24,132,2,"Not what I expected, but customer service helped.",2024-08-09
+3,378,163,5,Loved the quality and fast shipping!,2023-08-07
+4,383,115,5,"Packaging could be improved, but product is great.",2021-04-28
+5,277,149,3,Loved the quality and fast shipping!,2024-06-14
+6,417,168,4,Five stars! Will buy again.,2022-09-04
+7,356,92,3,Product met my expectations.,2021-01-11
+8,159,144,3,Decent value for the price.,2023-04-04
+9,341,1,3,Loved the quality and fast shipping!,2021-07-27
+10,259,195,4,"Packaging could be improved, but product is great.",2022-02-09
+11,282,29,1,Exactly as described.,2023-11-20
+12,292,119,2,Solid performance so far.,2021-09-11
+13,393,79,4,Loved the quality and fast shipping!,2021-11-15
+14,285,173,3,Would definitely recommend to friends.,2023-08-22
+15,457,27,4,Five stars! Will buy again.,2022-09-05
+16,88,110,3,Solid performance so far.,2022-01-09
+17,235,164,5,"Not what I expected, but customer service helped.",2021-08-11
+18,221,154,4,"Packaging could be improved, but product is great.",2021-11-28
+19,359,176,2,Five stars! Will buy again.,2025-03-11
+20,457,185,4,Loved the quality and fast shipping!,2023-01-06
+21,202,131,2,Product met my expectations.,2022-01-24
+22,332,155,3,Loved the quality and fast shipping!,2021-10-01
+23,143,172,4,Solid performance so far.,2025-03-04
+24,385,4,3,Loved the quality and fast shipping!,2021-11-25
+25,295,91,2,"Packaging could be improved, but product is great.",2024-09-24
+26,216,186,3,Product met my expectations.,2023-05-13
+27,324,152,4,Exactly as described.,2023-10-12
+28,252,151,2,Five stars! Will buy again.,2025-03-19
+29,499,51,4,Exactly as described.,2025-01-26
+30,495,137,4,Decent value for the price.,2021-08-13
+31,271,129,1,Loved the quality and fast shipping!,2021-09-16
+32,246,23,2,Five stars! Will buy again.,2023-10-22
+33,145,6,1,Would definitely recommend to friends.,2021-04-17
+34,412,183,3,Solid performance so far.,2024-05-07
+35,90,161,1,Solid performance so far.,2023-09-11
+36,394,9,3,"Not what I expected, but customer service helped.",2023-09-23
+37,133,69,1,Solid performance so far.,2022-05-23
+38,44,71,5,Decent value for the price.,2025-02-02
+39,203,3,5,Decent value for the price.,2022-05-26
+40,450,109,3,Product met my expectations.,2025-11-05
+41,327,139,3,Would definitely recommend to friends.,2024-09-26
+42,298,77,4,Would definitely recommend to friends.,2023-08-29
+43,11,70,1,Exactly as described.,2024-06-05
+44,450,68,2,Would definitely recommend to friends.,2025-10-17
+45,392,33,5,Decent value for the price.,2022-04-15
+46,73,105,1,Decent value for the price.,2023-04-02
+47,347,79,1,"Not what I expected, but customer service helped.",2022-01-29
+48,219,127,2,Solid performance so far.,2021-02-06
+49,128,182,5,Would definitely recommend to friends.,2021-07-06
+50,304,32,1,Solid performance so far.,2023-04-15
+51,36,127,5,"Not what I expected, but customer service helped.",2024-12-04
+52,136,6,2,Would definitely recommend to friends.,2022-11-20
+53,311,68,4,"Packaging could be improved, but product is great.",2021-05-06
+54,124,167,5,Solid performance so far.,2024-08-11
+55,29,1,1,"Not what I expected, but customer service helped.",2021-08-14
+56,261,33,3,Five stars! Will buy again.,2022-07-29
+57,396,177,3,Solid performance so far.,2022-05-21
+58,75,130,3,Loved the quality and fast shipping!,2022-01-08
+59,70,73,1,Loved the quality and fast shipping!,2021-04-17
+60,437,137,3,Would definitely recommend to friends.,2022-08-08
+61,187,155,4,"Not what I expected, but customer service helped.",2024-05-27
+62,316,7,1,Solid performance so far.,2022-01-14
+63,59,98,3,"Packaging could be improved, but product is great.",2023-01-15
+64,418,170,3,"Not what I expected, but customer service helped.",2021-08-17
+65,146,121,1,Loved the quality and fast shipping!,2024-10-30
+66,451,131,5,Decent value for the price.,2022-11-10
+67,107,195,3,Five stars! Will buy again.,2025-03-02
+68,284,92,5,Exactly as described.,2024-05-23
+69,45,59,3,Would definitely recommend to friends.,2024-08-24
+70,345,108,3,Would definitely recommend to friends.,2024-04-11
+71,271,95,4,Product met my expectations.,2021-08-06
+72,219,147,2,Great deal and excellent brand.,2021-09-04
+73,331,93,1,Great deal and excellent brand.,2024-09-02
+74,65,44,2,Would definitely recommend to friends.,2024-12-14
+75,495,104,4,Product met my expectations.,2021-06-03
+76,39,180,5,Great deal and excellent brand.,2022-12-04
+77,233,177,3,"Packaging could be improved, but product is great.",2025-04-08
+78,389,89,2,Exactly as described.,2025-01-16
+79,422,64,2,Loved the quality and fast shipping!,2021-09-19
+80,208,70,2,Solid performance so far.,2024-02-02
+81,117,48,3,Exactly as described.,2022-12-13
+82,91,148,3,"Packaging could be improved, but product is great.",2024-07-13
+83,477,169,1,Solid performance so far.,2021-05-19
+84,120,27,4,Solid performance so far.,2023-12-09
+85,206,149,5,Loved the quality and fast shipping!,2021-12-08
+86,128,92,5,"Not what I expected, but customer service helped.",2024-11-27
+87,355,186,2,"Not what I expected, but customer service helped.",2021-04-04
+88,65,137,5,Loved the quality and fast shipping!,2025-06-15
+89,42,10,2,Solid performance so far.,2023-10-11
+90,45,68,5,Exactly as described.,2021-06-03
+91,152,114,2,"Packaging could be improved, but product is great.",2025-03-18
+92,486,50,5,Solid performance so far.,2024-02-26
+93,320,16,4,Solid performance so far.,2024-05-28
+94,349,135,3,Would definitely recommend to friends.,2022-01-12
+95,461,62,1,Decent value for the price.,2024-03-17
+96,253,169,2,Great deal and excellent brand.,2024-11-27
+97,206,49,1,Exactly as described.,2023-07-22
+98,462,56,5,Exactly as described.,2022-06-15
+99,378,31,3,Would definitely recommend to friends.,2022-08-30
+100,271,24,3,Exactly as described.,2021-09-01
+101,252,46,2,Would definitely recommend to friends.,2021-04-04
+102,302,178,5,Would definitely recommend to friends.,2022-08-21
+103,107,6,1,Decent value for the price.,2022-07-23
+104,222,14,2,"Not what I expected, but customer service helped.",2025-06-08
+105,29,195,1,Would definitely recommend to friends.,2025-08-14
+106,120,22,2,Exactly as described.,2021-08-26
+107,438,80,1,Five stars! Will buy again.,2024-07-19
+108,443,28,5,Five stars! Will buy again.,2022-10-27
+109,21,158,1,Exactly as described.,2022-06-25
+110,382,105,2,Solid performance so far.,2024-06-06
+111,447,91,3,Five stars! Will buy again.,2021-04-28
+112,321,67,1,Five stars! Will buy again.,2022-03-26
+113,303,37,3,Decent value for the price.,2022-06-09
+114,115,146,1,Exactly as described.,2024-09-08
+115,418,140,5,Product met my expectations.,2025-01-19
+116,54,141,4,"Not what I expected, but customer service helped.",2024-07-06
+117,346,3,5,Exactly as described.,2022-02-27
+118,302,84,4,Would definitely recommend to friends.,2022-10-27
+119,128,155,3,Would definitely recommend to friends.,2024-04-06
+120,73,79,4,Decent value for the price.,2023-07-03
+121,110,159,2,Solid performance so far.,2023-01-25
+122,413,9,2,"Packaging could be improved, but product is great.",2021-07-11
+123,477,61,4,Decent value for the price.,2023-07-30
+124,29,39,2,Decent value for the price.,2022-01-22
+125,66,164,5,"Packaging could be improved, but product is great.",2025-02-02
+126,20,133,2,"Not what I expected, but customer service helped.",2021-02-13
+127,144,15,3,Decent value for the price.,2021-12-30
+128,144,171,4,Great deal and excellent brand.,2022-01-20
+129,162,114,1,Decent value for the price.,2021-05-28
+130,183,151,4,Would definitely recommend to friends.,2023-07-21
+131,335,13,4,Product met my expectations.,2025-01-23
+132,153,2,5,Decent value for the price.,2025-01-28
+133,58,166,1,Great deal and excellent brand.,2021-07-24
+134,305,52,4,Solid performance so far.,2021-02-12
+135,138,44,1,Loved the quality and fast shipping!,2025-04-13
+136,392,26,1,Decent value for the price.,2022-05-24
+137,272,168,1,"Not what I expected, but customer service helped.",2021-10-20
+138,220,6,5,Loved the quality and fast shipping!,2025-06-11
+139,316,131,1,Product met my expectations.,2024-01-16
+140,271,39,3,Product met my expectations.,2022-02-19
+141,363,127,2,"Packaging could be improved, but product is great.",2025-04-05
+142,307,193,5,"Packaging could be improved, but product is great.",2025-07-29
+143,461,5,2,"Not what I expected, but customer service helped.",2022-11-11
+144,253,28,4,Decent value for the price.,2022-05-15
+145,146,23,1,Exactly as described.,2024-11-18
+146,5,187,3,Exactly as described.,2021-09-10
+147,93,193,1,Loved the quality and fast shipping!,2021-07-30
+148,265,59,5,"Not what I expected, but customer service helped.",2021-07-30
+149,294,66,5,Solid performance so far.,2021-10-18
+150,404,36,1,Would definitely recommend to friends.,2021-02-19
+151,64,160,2,Solid performance so far.,2023-03-01
+152,291,51,2,Five stars! Will buy again.,2024-09-04
+153,359,120,3,Would definitely recommend to friends.,2024-11-02
+154,258,196,4,Product met my expectations.,2023-10-05
+155,426,182,2,Product met my expectations.,2022-04-05
+156,183,30,1,"Not what I expected, but customer service helped.",2023-01-02
+157,203,114,1,Great deal and excellent brand.,2022-11-15
+158,26,186,1,Five stars! Will buy again.,2021-06-23
+159,248,164,1,Great deal and excellent brand.,2021-11-06
+160,409,90,2,Solid performance so far.,2023-12-23
+161,424,131,3,Great deal and excellent brand.,2022-01-07
+162,79,4,4,Decent value for the price.,2024-09-28
+163,479,198,3,Great deal and excellent brand.,2025-08-02
+164,375,116,3,Five stars! Will buy again.,2021-08-01
+165,235,179,3,"Packaging could be improved, but product is great.",2024-09-17
+166,2,12,3,"Not what I expected, but customer service helped.",2025-07-19
+167,369,37,1,Loved the quality and fast shipping!,2025-10-31
+168,402,137,2,Decent value for the price.,2022-10-18
+169,302,189,2,Solid performance so far.,2023-07-04
+170,379,86,4,Product met my expectations.,2021-08-20
+171,420,121,5,Solid performance so far.,2025-01-28
+172,219,38,3,Decent value for the price.,2021-07-05
+173,57,92,3,Decent value for the price.,2022-01-08
+174,260,3,4,Five stars! Will buy again.,2022-10-16
+175,167,141,4,Solid performance so far.,2023-09-13
+176,228,67,4,Great deal and excellent brand.,2025-06-14
+177,336,80,3,Decent value for the price.,2025-07-01
+178,270,186,2,Solid performance so far.,2023-05-08
+179,93,50,5,"Packaging could be improved, but product is great.",2024-01-09
+180,25,40,5,"Packaging could be improved, but product is great.",2023-12-27
+181,15,87,5,Would definitely recommend to friends.,2023-02-27
+182,458,146,1,Great deal and excellent brand.,2025-01-04
+183,309,14,4,Exactly as described.,2024-03-29
+184,36,162,2,Product met my expectations.,2022-04-27
+185,314,168,3,Loved the quality and fast shipping!,2022-02-21
+186,407,3,1,Five stars! Will buy again.,2024-02-18
+187,11,5,4,Decent value for the price.,2021-08-14
+188,57,181,1,Five stars! Will buy again.,2023-01-10
+189,424,64,2,"Not what I expected, but customer service helped.",2023-08-01
+190,268,198,2,Exactly as described.,2023-05-13
+191,29,64,2,Would definitely recommend to friends.,2025-08-23
+192,129,73,2,Loved the quality and fast shipping!,2025-03-10
+193,181,193,2,Product met my expectations.,2024-11-25
+194,227,179,2,Solid performance so far.,2025-02-10
+195,159,13,1,Solid performance so far.,2023-02-01
+196,205,116,1,Product met my expectations.,2024-09-19
+197,319,85,5,Product met my expectations.,2023-09-04
+198,121,25,5,Decent value for the price.,2021-03-03
+199,138,148,2,Five stars! Will buy again.,2021-10-17
+200,211,14,1,Would definitely recommend to friends.,2021-06-07
+201,428,9,1,Great deal and excellent brand.,2025-08-30
+202,271,126,4,Decent value for the price.,2025-04-17
+203,301,66,2,"Packaging could be improved, but product is great.",2025-03-03
+204,89,11,2,Exactly as described.,2024-12-01
+205,209,104,3,"Packaging could be improved, but product is great.",2023-04-23
+206,201,146,3,"Packaging could be improved, but product is great.",2025-05-20
+207,435,197,1,"Not what I expected, but customer service helped.",2021-08-16
+208,296,132,2,Loved the quality and fast shipping!,2024-08-08
+209,218,60,1,Great deal and excellent brand.,2025-03-19
+210,337,193,2,Exactly as described.,2021-11-25
+211,313,82,1,Solid performance so far.,2025-09-02
+212,109,200,4,"Packaging could be improved, but product is great.",2024-02-09
+213,397,5,3,Great deal and excellent brand.,2023-10-25
+214,356,119,3,Would definitely recommend to friends.,2023-05-18
+215,161,11,2,"Not what I expected, but customer service helped.",2021-07-08
+216,27,171,5,Solid performance so far.,2021-09-14
+217,80,68,2,Solid performance so far.,2024-06-21
+218,163,45,1,Would definitely recommend to friends.,2023-03-15
+219,18,24,2,Exactly as described.,2024-05-24
+220,268,69,1,"Packaging could be improved, but product is great.",2023-09-05
+221,194,150,3,Solid performance so far.,2025-08-22
+222,212,166,4,Decent value for the price.,2021-04-22
+223,474,60,3,Solid performance so far.,2022-02-03
+224,160,186,3,Product met my expectations.,2021-08-02
+225,461,22,1,Five stars! Will buy again.,2024-05-20
+226,187,137,3,Loved the quality and fast shipping!,2022-05-06
+227,430,58,3,Decent value for the price.,2024-01-15
+228,234,199,1,Product met my expectations.,2022-03-10
+229,99,136,5,Loved the quality and fast shipping!,2025-03-30
+230,361,121,3,Would definitely recommend to friends.,2024-02-04
+231,32,18,2,Loved the quality and fast shipping!,2022-05-08
+232,375,190,3,Product met my expectations.,2024-03-13
+233,350,47,5,Loved the quality and fast shipping!,2024-02-29
+234,216,133,4,Loved the quality and fast shipping!,2021-04-09
+235,158,145,3,Product met my expectations.,2022-09-25
+236,148,74,1,Five stars! Will buy again.,2025-03-20
+237,421,138,3,Solid performance so far.,2023-10-22
+238,181,141,2,Five stars! Will buy again.,2025-03-20
+239,260,181,4,Five stars! Will buy again.,2021-09-23
+240,57,29,1,Five stars! Will buy again.,2023-04-15
+241,229,179,5,Product met my expectations.,2023-10-26
+242,61,194,2,Loved the quality and fast shipping!,2024-04-17
+243,255,158,4,"Packaging could be improved, but product is great.",2024-04-15
+244,215,88,1,"Not what I expected, but customer service helped.",2021-11-27
+245,326,170,2,"Packaging could be improved, but product is great.",2021-06-11
+246,23,103,1,Would definitely recommend to friends.,2022-03-18
+247,235,137,2,Decent value for the price.,2023-10-25
+248,260,87,5,Great deal and excellent brand.,2024-08-27
+249,44,57,5,Five stars! Will buy again.,2023-07-06
+250,60,23,2,Five stars! Will buy again.,2022-08-19
+251,65,120,3,Great deal and excellent brand.,2025-10-19
+252,9,91,4,Loved the quality and fast shipping!,2024-12-30
+253,59,164,4,Would definitely recommend to friends.,2022-03-04
+254,324,45,5,Great deal and excellent brand.,2021-06-03
+255,58,127,2,Great deal and excellent brand.,2024-07-09
+256,423,24,4,Product met my expectations.,2025-07-07
+257,195,1,1,Decent value for the price.,2025-04-19
+258,500,156,3,Exactly as described.,2025-11-12
+259,49,111,1,"Packaging could be improved, but product is great.",2021-07-12
+260,431,22,4,Five stars! Will buy again.,2021-12-14
+261,282,113,3,Decent value for the price.,2021-05-20
+262,95,36,3,Great deal and excellent brand.,2023-01-15
+263,192,16,3,Product met my expectations.,2021-05-26
+264,430,126,2,"Packaging could be improved, but product is great.",2022-06-13
+265,289,32,4,"Not what I expected, but customer service helped.",2025-04-12
+266,306,186,4,Decent value for the price.,2021-09-11
+267,117,34,5,"Packaging could be improved, but product is great.",2021-03-23
+268,339,175,3,"Not what I expected, but customer service helped.",2023-04-02
+269,133,179,4,Great deal and excellent brand.,2024-10-25
+270,85,85,2,"Packaging could be improved, but product is great.",2023-01-22
+271,266,27,5,Great deal and excellent brand.,2022-10-05
+272,206,123,3,Product met my expectations.,2024-10-29
+273,375,196,4,Exactly as described.,2023-07-11
+274,43,196,3,Loved the quality and fast shipping!,2024-06-25
+275,117,1,1,Would definitely recommend to friends.,2024-12-04
+276,23,87,5,Loved the quality and fast shipping!,2021-11-13
+277,285,197,1,"Not what I expected, but customer service helped.",2023-02-09
+278,34,106,2,Great deal and excellent brand.,2023-03-29
+279,245,107,1,Would definitely recommend to friends.,2023-03-07
+280,246,58,4,Product met my expectations.,2022-12-16
+281,93,122,4,"Packaging could be improved, but product is great.",2024-08-08
+282,396,171,5,"Packaging could be improved, but product is great.",2021-08-12
+283,198,94,1,Decent value for the price.,2025-02-07
+284,33,31,1,Solid performance so far.,2025-04-23
+285,135,78,4,Would definitely recommend to friends.,2023-04-03
+286,355,101,3,Product met my expectations.,2022-10-12
+287,440,134,3,Great deal and excellent brand.,2023-09-23
+288,147,184,2,"Packaging could be improved, but product is great.",2021-08-23
+289,477,3,3,"Packaging could be improved, but product is great.",2021-03-20
+290,499,138,5,Decent value for the price.,2023-08-21
+291,478,85,2,Would definitely recommend to friends.,2022-10-18
+292,104,43,5,Loved the quality and fast shipping!,2024-05-16
+293,345,168,4,Loved the quality and fast shipping!,2025-07-14
+294,393,55,3,Solid performance so far.,2023-08-28
+295,421,33,2,Loved the quality and fast shipping!,2022-03-10
+296,438,113,1,Solid performance so far.,2022-07-07
+297,359,64,3,Decent value for the price.,2021-06-21
+298,147,177,2,Product met my expectations.,2022-07-15
+299,343,25,4,Product met my expectations.,2022-09-03
+300,156,11,4,Solid performance so far.,2023-12-11
